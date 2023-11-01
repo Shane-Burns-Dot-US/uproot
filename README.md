@@ -1,4 +1,4 @@
-# Uproot: Python File System Visualizer 🌳
+# Uproot: Python File System Visualizer and Repository Structure Provider for LLM Software Development  🌳
 Command line python script to replicate bash tree command down to functions, variables, methods, etc 
 
 ## Overview
