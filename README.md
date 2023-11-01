@@ -74,10 +74,3 @@ Join the Uproot community! Feel free to fork the project, open a PR, or submit a
 
 Licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 '''
-
-# Save the README.md content to a file
-readme_file_path = '/mnt/data/README_Uproot.md'
-with open(readme_file_path, 'w') as f:
-    f.write(readme_content)
-
-readme_file_path
