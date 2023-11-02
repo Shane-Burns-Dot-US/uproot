@@ -37,6 +37,18 @@ from uproot import main
 
 # Generate a tree for the current directory
 main(root_directory='.')
+
+
+### Flags
+
+- `--all` : Include all details (functions, classes, variables, data structures, decorators, and imports).
+- `--imports` : Include import statements only.
+- `--functions` : Include functions only.
+- `--classes` : Include classes only.
+- `--variables` : Include variables only.
+- `--decorators` : Include decorators only.
+- `--files-only` : Include file names only, no additional details.
+- `--help` : Show the help message and exit.
 ```
 
 Get a complete **file system tree** in a text file right in your current directory.
